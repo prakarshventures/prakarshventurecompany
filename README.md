@@ -1,1 +1,99 @@
-# prakarshventurecompany
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Prakarsh Ventures Investment Pvt Ltd</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #005baa;
+      color: white;
+      padding: 30px;
+      text-align: center;
+    }
+    nav {
+      background-color: #003f7d;
+      text-align: center;
+      padding: 10px;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px;
+      max-width: 900px;
+      margin: auto;
+      background-color: white;
+    }
+    footer {
+      background-color: #005baa;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    .button {
+      background-color: #005baa;
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 20px;
+      display: inline-block;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Prakarsh Ventures Investment Pvt Ltd</h1>
+  <p>Empowering Your Financial Future</p>
+</header>
+
+<nav>
+  <a href="#about">About Us</a>
+  <a href="#services">Services</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+  <h2>About Us</h2>
+  <p><strong>Prakarsh Ventures Investment Pvt Ltd</strong> is a trusted investment firm based in <strong>Etah, Uttar Pradesh</strong>. We are committed to providing safe, scalable and high-return investment plans tailored to your financial goals.</p>
+  <p><strong>Founder:</strong> Mr. Jatin Yadav<br>
+     <strong>Director:</strong> Mr. Prateek<br>
+     <strong>CIN:</strong> U65929UP2022PTC171239<br>
+     <strong>GSTIN:</strong> 09AANCP2641Q1ZO</p>
+</section>
+
+<section id="services">
+  <h2>Our Services</h2>
+  <ul>
+    <li>Personal Investment Planning</li>
+    <li>Fixed Return Schemes (like 15% Annual Returns)</li>
+    <li>Account Opening & KYC Processing</li>
+    <li>Investment Closure & Plan Management</li>
+  </ul>
+  <a href="#" class="button">Download Investment Form</a>
+</section>
+
+<section id="contact">
+  <h2>Contact Us</h2>
+  <p><strong>Registered Office:</strong><br>
+     C/O Rajesh, Shyam Bihar, Agra Road, Etah, Uttar Pradesh 207001</p>
+  <p><strong>Email:</strong> prakarshventuresinvestment269@gmail.com</p>
+  <p><strong>Phone:</strong> +91-8218653407</p>
+</section>
+
+<footer>
+  <p>&copy; 2025 Prakarsh Ventures Investment Pvt Ltd. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
